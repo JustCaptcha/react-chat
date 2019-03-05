@@ -1,0 +1,4 @@
+.ChatInputSection {
+    display: flex;
+    flex-direction: column;
+}

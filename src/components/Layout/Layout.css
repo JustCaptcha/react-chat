@@ -1,0 +1,11 @@
+.Layout {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.mainContent {
+    margin-top: 2em;
+    flex: 1 0 auto;
+    /* display: flex; */
+}
